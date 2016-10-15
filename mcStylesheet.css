@@ -1,0 +1,38 @@
+body{
+	background-color:gray;
+}
+h1{
+	color:white;
+}
+
+a{
+	color:yellow;
+}
+
+p{
+	color:yellow;
+}
+
+blockquote{
+	color:yellow;
+}
+
+ol{
+	color:red;
+}
+
+.image1{
+	box-shadow: 10px 10px 5px #888888;
+	width:304px;height:228px;
+	align:left;
+}
+.image2{
+	width:304px;height:228px;
+	align:center;
+	
+}
+.image3{
+	box-shadow: 10px 10px 5px #888888;
+	width:304px;height:228px;
+	align:right;
+}
